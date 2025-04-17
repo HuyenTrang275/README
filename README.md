@@ -29,7 +29,7 @@ Trực quan hóa kết quả
 6. KẾT QUẢ VÀ PHÁT HIỆN (RESULTS AND FINDINGS)
 Hãy nhớ tóm tắt những kết quả quan trọng và nổi bật từ bài phân tích để dễ dàng truyền đạt thông tin. Kinh nghiệm của mình là hãy nhấn mạnh vào những phát hiện và thông tin quan trọng mà mình đã thu được từ dữ liệu để người đọc nắm bắt được giá trị và ứng dụng của bài phân tích.
 Ví dụ, trong một dự án phân tích dữ liệu bán hàng, mình phát hiện rằng các sản phẩm thời trang có doanh số tăng cao hơn vào mùa thu. Cụ thể, phân tích cho thấy doanh số của áo khoác và giày boots tăng khoảng 30% vào tháng 10 và tháng 11 khi cửa hàng triển khai nhiều chương trình giảm giá lớn. Điều này cho thấy chiến lược khuyến mãi vào mùa thu đã tác động tích cực đến doanh số bán hàng, và có thể áp dụng các chiến lược tương tự vào những thời điểm khác trong năm để tối ưu hóa doanh thu.
-### [🔗 Dashboard Phân Tích Bán Hàng]
+### [🔗 Link Dashboard]
 
 ## 📫 Liên hệ
 - 📧 nthuyentrang27.5@gmail.com
